@@ -17,12 +17,12 @@ article {
     margin: 0 auto;
 }
 .Skill {
-    border: 7px solid #ADADAD;
+    border: 7px solid #078BFF;
     border-radius: 30%;
 }
 .skills {
     text-align: left;
-    color: #ADADAD;
+    color: #078BFF;
 }
 #header-pic {
     margin: 40px 0px 0px 0px;
@@ -41,7 +41,7 @@ header{
 }
 p {
     text-align: center;
-    color: #ADADAD;
+    color: #078BFF;
 }
 h1{
     color: #FFF9DD;
