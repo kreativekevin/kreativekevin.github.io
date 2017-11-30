@@ -16,6 +16,10 @@ article {
     padding: 10px;
     margin: 0 auto;
 }
+.Skills {
+    border: 7px solid #078BFF;
+    border-radius: 15%;
+}
 .Skill {
     border: 7px solid #078BFF;
     border-radius: 30%;
